@@ -12,3 +12,5 @@ func {program} = Add + 4
     "coverage": "scripts/coverage.sh",
     "coveralls": "scripts/coveralls.sh"
   },
+# This line was added by ParzivalWins
+      { EC2 .AWS:CLOUDWATCH } 
