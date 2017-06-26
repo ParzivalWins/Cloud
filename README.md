@@ -7,3 +7,5 @@ This is the Feature Branch
 
 RELEASE NOTES:
 Created by Ben Morris Monday, June 26, 12:37pm PST
+
+BUG FIX:  12:40pm PST 
