@@ -1,6 +1,8 @@
 # Cloud
 Code for Cloud
 
-modified on Iphone.
+Adding comments to the Readme. 
 
-Added by Agentbond007 11am 6/26
+ParzivalWins Modified at the same time as Agentbond on his Repo. 
+
+BenMorris-io changing at the same time.  ON ACTUAL REPO on a FORK. 
